@@ -19,7 +19,7 @@
 
 ---
 
-### Screenshot
+### Screenshots
 
 <p align="center">
   <img src="screenshots/1.png" />
